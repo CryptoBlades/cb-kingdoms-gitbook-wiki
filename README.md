@@ -2,7 +2,7 @@
 description: 'Intro to Cryptoblades: Kingdoms'
 ---
 
-# CryptoBlades: Kingdoms
+# CryptoBlades: Kingdoms Intro
 
 CryptoBlades: Kingdoms is a modular additional game to CryptoBlades. It brings a persistent browser-based game \(PBBG\) game to the CryptoBlades universe.
 
