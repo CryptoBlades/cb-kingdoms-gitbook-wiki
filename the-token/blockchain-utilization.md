@@ -2,7 +2,7 @@
 
 NFTs:
 
-* Village plots
+* Villages
 
 On-chain features:
 
