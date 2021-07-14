@@ -6,7 +6,7 @@ Dungeons are composed of a few important parts: **rewards**, **max explorers**, 
 
 When exploring a dungeon, a player can **commit resources** to do so. They can either explore solo, or request guild help \(if they're in a guild\). Rewards scale to the number of explorers, so they can explore solo and get into the action immediately, or get guild help for it. Any number of players can explore a dungeon at a time, it's a PvE element. 
 
-In addition to committing CryptoBlades heroes for exploration, players may commit armies from their villages. These armies will bolster power when exploring the dungeons, similar to when attacking happens.
+In addition to committing CryptoBlades heroes for exploration, players may commit armies from their villages. These armies will bolster power when exploring the dungeons, similar to when attacking happens. Additionally, players can commit up to 50 CryptoBlades weapons for an expedition for their army to get a power boost.
 
 Dungeon difficulty is randomly generated at reset as well. Difficulty will be a number from 1-3 and a power level and an element, following CBK combat rules. The number 1-3 is the number of segments in the dungeon \(very short, short, normal\).
 

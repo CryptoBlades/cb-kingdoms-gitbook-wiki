@@ -13,6 +13,7 @@ Attacks operate as follows:
 * Add up the total attack of the attacking army vs the defending army \(attack goes up by 1 per unit the attacker has, and is doubled for a specific unit count up to the number of enemy units it's strong against\), then add the Smithy bonus.
 * Add up the total defense of the defending army vs the attacking army \(same rules as above\), then add the Wall bonus.
 * Apply damage randomly, simultaneously, between the two armies.
+  * If there are multiple supporting players for the defender, damage is taken randomly between all their armies.
 * If the attacking army is still alive, then:
   * each living member of the army takes up to 5 resources of a random type
   * the attacking army walks back home, and delivers resources when it arrives
