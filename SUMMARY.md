@@ -20,18 +20,27 @@
 
 ## Dungeons
 
-* [On Dungeons TODO](dungeons/on-dungeons-todo.md)
+* [On Dungeons](dungeons/on-dungeons-todo.md)
+* [Exploring Dungeons](dungeons/exploring-dungeons.md)
 
 ## Quests
 
-* [On Quests TODO](quests/on-quests-todo.md)
+* [Daily Quests](quests/daily-quests.md)
+* [Guild Quests](quests/guild-quests.md)
 
 ## The Token
 
 * [Intro to KING](the-token/intro-to-king.md)
+* [Actions That Cost KING](the-token/actions-that-cost-king.md)
+* [Blockchain Utilization](the-token/blockchain-utilization.md)
+
+## Extras
+
+* [Wallet Nicknames](extras/wallet-nicknames.md)
+* [Mail System](extras/mail-system.md)
+* [Timeline](extras/timeline.md)
 
 ## References
 
-* [Design Doc](https://docs.google.com/document/d/1507bFNa9Jf1CnQ9iY6XfmOYWDOw1PRxKQzwVKREaKbc/edit#heading=h.4zbm0j9h2w51)
 * [Buildings Growth](https://docs.google.com/spreadsheets/d/1Ei-Bw7GCu57H92kv2o_zKDqMli8PmvSmFYKXWaghTm8/edit?usp=drive_web&ouid=115504486594972967062)
 
