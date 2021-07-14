@@ -4,6 +4,8 @@ description: Each of the buildings that can be found in a village.
 
 # Buildings
 
+Villages can create and upgrade any buildings in this list. Every building will cost resources \(stone, clay, wood\) to upgrade. Buildings at any level increase the score of the village, allowing any player to get a general grasp of how strong a particular village is.
+
 ## Town Hall
 
 The town hall is the main building every village has. Here is where new building construction and upgrades are managed. To increase the level of a building, the Town Hall must be at least that level. If an upgrade is cancelled a proportional amount of resources will be returned back based on how long the upgrade takes, and how much time has been spent so far. The Town Hall can queue up to 2 building upgrades at a time.
@@ -59,6 +61,12 @@ The Smithy has a max level of 6, and higher levels buff units and build time mor
 ## Rally Point
 
 The Rally Point is where players go to issue commands to their heroes and military units.
+
+Here, you can issue an **attack** or **support** command. Attacks are sending your units to another village to plunder resources and kill troops, whereas a support command allows you to bolster another villages forces. 
+
+In the case of a support command, you can recall your troops at any time while they're at the destination village.
+
+Additionally, you can always cancel _any_ order while it's in progress, but the units must spend the same amount of time they already have to come back.
 
 ## Farm
 

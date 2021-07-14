@@ -9,12 +9,14 @@
 * [Villages](the-world/villages/README.md)
   * [Buildings](the-world/villages/buildings.md)
   * [Military Units](the-world/villages/military-units.md)
-  * [Combat TODO](the-world/villages/combat-todo.md)
+  * [Combat](the-world/villages/combat-todo.md)
+* [Traversal](the-world/traversal.md)
 * [Your Kingdom](the-world/your-kingdom.md)
 
 ## Guilds
 
-* [On Guilds TODO](guilds/on-guilds.md)
+* [Forming a Guild](guilds/on-guilds.md)
+* [Advantages of a Guild](guilds/advantages-of-a-guild.md)
 
 ## Dungeons
 

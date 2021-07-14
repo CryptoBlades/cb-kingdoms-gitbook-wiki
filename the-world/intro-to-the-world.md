@@ -6,5 +6,5 @@ These chunks will be allocated to different networks at different times, so they
 
 The world will visually be represented as hexes instead of the traditional tiles.
 
-Each claimable territory node can have a **village**. 
+Each claimable territory node can have a **village** or a **dungeon** \(or be empty\). 
 
