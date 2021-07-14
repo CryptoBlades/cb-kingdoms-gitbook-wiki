@@ -10,5 +10,5 @@ In CryptoBlades: Kingdoms, there are 3 primary resources:
 * wood
 * clay
 
-These resources are used to construct buildings in your village and recruit armies.
+These resources are used to construct buildings in a village and recruit armies for that village.
 

@@ -14,13 +14,13 @@ The Town Hall has a max level of 10, and higher levels allow the village to buil
 
 ## Headquarters
 
-The Headquarters is where you can go to view CryptoBlades heroes associated with the current player wallet. Here, their level can be viewed as well as any other useful information for CBK.
+The Headquarters is where a player can go to view CryptoBlades heroes associated with their current player wallet. Here, their level can be viewed as well as any other useful information for CBK.
 
 The Headquarters has a max level of 1.
 
 ## Barracks
 
-The Barracks is where you can view an army and recruit more units to it. Units have a recruitment time ranging from 5-30 seconds per unit, as well as a material cost. There are 5 units: Bruiser, Mage, Archer, Paladin, and Mercenary. More information about them can be found [here](military-units.md). The number of units that can be recruited is capped by the level in the Farm.
+The Barracks is where a player can view an army and recruit more units to it. Units have a recruitment time ranging from 5-30 seconds per unit, as well as a material cost. There are 5 units: Bruiser, Mage, Archer, Paladin, and Mercenary. More information about them can be found [here](military-units.md). The number of units that can be recruited is capped by the level in the Farm.
 
 The Barracks has a max level of 10, and higher levels increase unit recruitment speed.
 
@@ -62,11 +62,11 @@ The Smithy has a max level of 6, and higher levels buff units and build time mor
 
 The Rally Point is where players go to issue commands to their heroes and military units.
 
-Here, you can issue an **attack** or **support** command. Attacks are sending your units to another village to plunder resources and kill troops, whereas a support command allows you to bolster another villages forces. 
+Here, commands for **attack** or **support** actions can be issued. Attacks are sending units to another village to plunder resources and kill troops, whereas a support command bolsters another villages defenses. 
 
-In the case of a support command, you can recall your troops at any time while they're at the destination village.
+In the case of a support command, troops can be recalled any time at any time while they're at the destination village.
 
-Additionally, you can always cancel _any_ order while it's in progress, but the units must spend the same amount of time they already have to come back.
+Additionally, an order can always be canceled _any_ order while it's in progress, but the units must spend the same amount of time they already have to come back.
 
 ## Farm
 

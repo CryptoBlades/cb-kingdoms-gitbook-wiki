@@ -10,7 +10,7 @@ The time to travel to the subsequent village will follow Traversal rules.
 
 Attacks operate as follows:
 
-* Add up the total attack of the attacking army vs the defending army \(attack goes up by 1 per unit you have, and is doubled for a specific unit count up to the number of enemy units it's strong against\), then add the Smithy bonus.
+* Add up the total attack of the attacking army vs the defending army \(attack goes up by 1 per unit the attacker has, and is doubled for a specific unit count up to the number of enemy units it's strong against\), then add the Smithy bonus.
 * Add up the total defense of the defending army vs the attacking army \(same rules as above\), then add the Wall bonus.
 * Apply damage randomly, simultaneously, between the two armies.
 * If the attacking army is still alive, then:
