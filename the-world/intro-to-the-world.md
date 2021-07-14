@@ -8,3 +8,5 @@ The world will visually be represented as hexes instead of the traditional tiles
 
 Each claimable territory node can have a **village** or a **dungeon** \(or be empty\). 
 
+All villages will have 3 primary resources: **stone**, **clay**, and **wood**.
+
