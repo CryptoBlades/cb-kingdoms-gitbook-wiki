@@ -8,7 +8,7 @@ Villages are what players use to interact with the world of CBK. Every player st
 
 Villages will come in multiple tiers: tier 1, tier 2, tier 3.
 
-1. Tier 1 villages are placed completely randomly, and are only placed when a player join the game
+1. Tier 1 villages are placed completely randomly, and are only placed when a player joins
 2. Tier 2 villages allow the player to choose a chunk to spawn in \(assuming it's not too populated presently\), but their village will be placed randomly in that chunk.
 3. Tier 3 villages will spawn when the world is created, and there will only be 1 per chunk, placed randomly in that chunk. These villages will start with slightly higher building levels and initial resources.
 
