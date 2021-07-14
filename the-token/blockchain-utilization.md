@@ -1,5 +1,9 @@
 # Blockchain Utilization
 
+NFTs:
+
+* Village plots
+
 On-chain features:
 
 * Sharing tokens \(KING, SKILL\) between chains

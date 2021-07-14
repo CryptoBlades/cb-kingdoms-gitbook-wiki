@@ -4,7 +4,7 @@ description: 'What villages can do in CryptoBlades: Kingdoms'
 
 # Villages
 
-Villages are what players use to interact with the world of CBK. Every player starts with exactly 1 village, which can either be gotten off of the **market** \(they're NFTs!\) or bought fresh. 
+Villages are what players use to interact with the world of CBK. Every player starts with exactly 1 village, which can either be bought from the **market** or freshly minted. 
 
 Villages will come in multiple tiers: tier 1, tier 2, tier 3.
 
