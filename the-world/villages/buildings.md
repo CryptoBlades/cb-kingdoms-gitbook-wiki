@@ -86,3 +86,7 @@ The Wall buffs the defensive capabilities of stationed military units.
 
 The Wall has a max level of 6, and higher levels buff the defense of stationed military units in this village.
 
+## Market
+
+The Market is used to trade resources with other villages. Resources \(clay, stone, wood\) can be listed on the Market, and can be bought from other players on the Market. The prices are be listed in KING.
+
