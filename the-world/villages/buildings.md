@@ -46,6 +46,8 @@ The Forest Camp has a max level of 6, and higher levels generate more wood per h
 
 The Church is how the kingdom is expanded. Here, missionaries can be recruited - these units can be sent to lands near or far to claim them for a kingdom. Training a missionary takes a long time, however - 3 days. Once a missionary is recruited, it can be sent off to an unoccupied land to claim it. Beware, missionaries are slow! The missionary does not count towards the Farm unit cap.
 
+This building is unique in that only one can recruit at a time per wallet. The reason to have multiple would be to expand from different locations.
+
 ## Storehouse
 
 The Storehouse is where resources are stored. Resources are spent from the Storehouse as well. Upon filling the Storehouse, further resources gathered will be ignored.
