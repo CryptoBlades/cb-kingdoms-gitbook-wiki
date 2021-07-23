@@ -18,9 +18,11 @@ Some empty villages will spawn on the map. These are **barbarian** **villages**,
 
 Villages are considered **abandoned** if they're left alone for more than two weeks. This is purely cosmetic, but will attract many players to raid the village for resources if they know it's not being actively protected.
 
-Villages will gain resources over time depending on the level of the **generators** \(Stone Mine, Clay Pit, Forest Camp\) in the village.
+Villages gain resources over time depending on the level of the **generators** \(Stone Mine, Clay Pit, Forest Camp\) in the village.
 
-All villages will have **buildings**, that can be upgraded. Each building uniquely helps a village grow.
+All villages have **buildings**, that can be upgraded. Each building uniquely helps a village grow.
+
+All villages have a **score**, which is represented by their building levels. Score is public, and can be used to roughly estimate what kind of potential power a village has.
 
 
 
