@@ -32,13 +32,13 @@ The Stone Mine has a max level of 6, and higher levels generate more stone per h
 
 ## Clay Pit
 
-The Clay Pit generates stone for the village.
+The Clay Pit generates clay for the village.
 
 The Clay Pit has a max level of 6, and higher levels generate more clay per hour.
 
 ## Forest Camp
 
-The Forest Camp generates stone for the village.
+The Forest Camp generates wood for the village.
 
 The Forest Camp has a max level of 6, and higher levels generate more wood per hour.
 
