@@ -40,8 +40,8 @@
 
 * [Wallet Nicknames](extras/wallet-nicknames.md)
 * [Mail System](extras/mail-system.md)
-* [Timeline](extras/timeline.md)
 * [CBK Stats](extras/cbk-stats.md)
+* [Timeline](extras/timeline.md)
 
 ## References
 
