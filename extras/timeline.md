@@ -24,6 +24,7 @@ This is a WIP timeline, and not guaranteed. It has also been padded from the ori
 14. 4w - Create dungeon functionality
     1. 3w - logical dungeon features - allocate CB heroes, armies, guild tie in, combat, rewards
     2. 1w - ui for dungeons, guild board
+15. 4w - Create CBK Stats tool \(post launch\)
 
 \*_starting at two stars is cooler_  
 \*\*_this aspect can be done simultaneously with anything else; it is not depended on for some time_  
