@@ -41,6 +41,7 @@
 * [Wallet Nicknames](extras/wallet-nicknames.md)
 * [Mail System](extras/mail-system.md)
 * [CBK Stats](extras/cbk-stats.md)
+* [Babysitting](extras/babysitting.md)
 * [Timeline](extras/timeline.md)
 
 ## References
