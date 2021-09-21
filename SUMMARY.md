@@ -43,7 +43,6 @@
 * [CBK Stats](extras/cbk-stats.md)
 * [Babysitting](extras/babysitting.md)
 * [Undecided Features](extras/undecided-features.md)
-* [Timeline](extras/timeline.md)
 
 ## References
 
