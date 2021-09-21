@@ -9,7 +9,7 @@ This is a WIP timeline, and not guaranteed. It has also been padded from the ori
 5. 1w - Create game loop to increase resources based on time step
 6. 1w - Create in game [mail system](mail-system.md) to communicate with other players\*\*
 7. 1w - Create [wallet nickname](wallet-nicknames.md) feature\*\*
-8. 2w - I**nitial village sale** - players can buy one village per wallet to get into the game
+8. 2w - **Initial village sale** - players can buy one village per wallet to get into the game
    1. players cannot build buildings, or do anything but watch their resources go up. no interactivity is planned for this time
 9. 4w - Create village overview to view buildings, create individual interfaces for each building, add each building, and add upgrade functionality to add new buildings\*\*
    1. upgrades will be tied to the game loop
