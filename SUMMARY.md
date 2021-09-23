@@ -35,6 +35,7 @@
 * [Intro to KING](the-token/intro-to-king.md)
 * [Actions That Cost KING](the-token/actions-that-cost-king.md)
 * [Blockchain Utilization](the-token/blockchain-utilization.md)
+* [Tokenomics](the-token/tokenomics.md)
 
 ## Extras
 
