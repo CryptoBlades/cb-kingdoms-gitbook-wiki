@@ -13,7 +13,7 @@ Initial Mcap: 400k USD excluding liquidity - 640k including liquidity
 3 month lock, then 10% unlock each month
 * %4 - 40m tokens - 1.6m raise Seedify.fund IDO 4 cents
 25% unlock at listing, 25% each proceeding month
-----
+
 * %27 Fundraising 
 Vesting and locks According to the numbers above
 * %15 Team & Advisors 
