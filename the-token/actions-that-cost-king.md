@@ -8,7 +8,7 @@ In game, there will be many ways to spend KING. Almost every action will require
 * canceling anything
 * nicknaming your wallet
 
-Other things will not be handled with the blockchain, and thus will not cost skill:
+Other things will not be handled with the blockchain, and thus will not cost KING:
 
 * using the guild forum
 * using the mail system
