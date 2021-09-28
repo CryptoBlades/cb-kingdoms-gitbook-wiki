@@ -15,7 +15,7 @@
 * **27%** Fundraising  (vesting and locks According to the numbers above
   * **20%** VC Private Sale (200m tokens) 4m raise 2 cents (3 month lock, then 10% unlock each month)
   * **3%** (30m tokens) 600k raise Seedify.fund Private Sale 2 cents (3 month lock, then 10% unlock each month)
-  * **4%** (40m tokens) 1.6m raise Seedify.fund IDO 4 cents (25% unlock at listing, 25% each proceeding month)
+  * **4%** (40m tokens) 1m raise Seedify.fund IDO 4 cents (25% unlock at listing, 25% each proceeding month)
 * **15%** Team & Advisors (3 month lock, then 5% unlock each month for 20 months)
 * **3%** Exchange Liquidity (20% unlock for initial liquidity, then 5% unlock every month)
 * **15%** Community & Marketing (locked initially, then 10% unlock every month for 5 months, then 5% unlock for 10 more months)
